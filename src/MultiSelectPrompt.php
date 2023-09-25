@@ -3,7 +3,7 @@
 namespace Laravel\Prompts;
 
 use Closure;
-use Illuminate\Support\Collection;
+use WPWhales\Support\Collection;
 
 class MultiSelectPrompt extends Prompt
 {

@@ -2,7 +2,7 @@
 
 namespace Laravel\Prompts;
 
-use Illuminate\Support\Collection;
+use WPWhales\Support\Collection;
 
 class Table extends Prompt
 {
